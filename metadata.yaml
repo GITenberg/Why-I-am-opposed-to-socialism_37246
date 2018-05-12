@@ -1,0 +1,26 @@
+_repo: Why-I-am-opposed-to-socialism_37246
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Silvin, Edward
+    birthdate: 1877
+    gutenberg_agent_id: '40466'
+    url: http://www.gutenberg.org/2009/agents/40466
+covers:
+- cover_type: archival
+  image_path: 37246-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37246'
+  lccn: '13003663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcc 'HX'
+title: Why I am opposed to socialism
+url: http://www.gutenberg.org/ebooks/37246
