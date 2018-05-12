@@ -10,6 +10,8 @@ covers:
 - cover_type: archival
   image_path: 37246-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37246#Why-I-am-opposed-to-socialism
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
 identifiers:
